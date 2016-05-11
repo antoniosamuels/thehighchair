@@ -1,0 +1,9 @@
+body {
+  background-color: #000;
+  margin: 15% auto;
+  text-align: center;
+}
+
+.logo {
+  display: inline-block;
+}
